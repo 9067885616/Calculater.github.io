@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+h2 {
+    text-align: center;
+}
+.calculator {
+    height: auto;
+    width: 30%;
+    margin: auto;
+    border: 1px solid black;
+}
+.box1 {
+    text-align: center;
+    margin: 10px;
+}
+.box1 input {
+    width: 70px;
+    height: 30px;
+    font-weight: bold;
+    
+}
+#calc {
+    width: 80%;
+    height: 30px;
+    margin: 30px;
+}
+#ans {
+    width: 100px;
+    background-color: green;
+    color: white;
+}
+#clear {
+    background-color: red;
+    width: 100px;
+    color: white;
+}
